@@ -26,3 +26,5 @@ Perfect for anyone who wants to understand the inner workings of the `e1071::nai
 - **Final PDF version**: `LOL_and_NB.pdf`
 
 ---
+
+The PDF version has 12 pages in total.
